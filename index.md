@@ -6,11 +6,9 @@ title: <Gina Chen>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/IMG_1826.jpeg" | relative_url }}){: class="profile-image"}
 
-![Heat Exchanger Setup]({{ "assets/images/IMG_1826.jpeg" | relative_url }})
-
-![Another Angle]({{ "assets/images/IMG_1827.jpeg" | relative_url }})
+![Another Angle of Heat Exchanger Setup]({{ "assets/images/IMG_1827.jpeg" | relative_url }})
 
 ![Close-up]({{ "assets/images/IMG_1828.jpeg" | relative_url }})
 
