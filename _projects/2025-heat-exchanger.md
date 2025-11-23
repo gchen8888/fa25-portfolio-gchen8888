@@ -84,5 +84,15 @@ This maintains a **high temperature difference** along the entire heat exchanger
 Meanwhile, parallel flow quickly loses temperature difference, as both flows go in the same direction, with smaller temperature differences along the way, so heat transfer becomes inefficient halfway through the exchanger.
 
 
+# Real-World Considerations
+- The heat exchanger in lab was **not perfectly adiabatic**.  
+- Some heat is lost to the room. 
+- The system may not reach true steady state. 
+- Pumps introduce kinetic energy changes, although it might be small relative to thermal effects. 
 
+In real devices, insulation is needed to eliminate these effects.
+
+# Conclusion
+
+Counterflow operation produced **larger temperature changes** and **more effective heat transfer** than parallel flow. This matches thermodynamic expectations and is helpful to keep in mind for real-world engineering design principles.
 
