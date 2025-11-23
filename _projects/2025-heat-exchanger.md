@@ -32,6 +32,31 @@ Real-world examples of heat exchanger include:
 - Radiator in a car
 - Coils at the back of a refrigerator
 
+## System Diagram 
+I treat this heat exchanger as a **control volume** system. Assume it's at steady state, adiabatic (no heat loss to surroundings), and no work other than flow work of the two streams (hot, cold). Assume changes in kinetic and potential energy are negligible.
+
+As shwon here: 
+##### add image here for the system 
+
+- Energy is transferred only between the two streams, not to the environment.
+- No work interactions occur.
+
+## Mass balance 
+With assumption of steady state: 
+
+##### add image here for the system 
+
+## Energy balance 
+With assumption of steady state: 
+- Adiabatic: Q = 0
+- Only flow work: W = 0
+- Negligible KE and PE changes
+##### add image here for the system 
+
+## entropy balance 
+With assumption of steady state, consider one stream: 
+
+##### add image here for the system 
 
 # Experimental Data
 
