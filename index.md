@@ -6,7 +6,7 @@ title: Gina Chen
 ## About Me
 
 
-![Profile Picture]({{ "/assets/images/Gina Chen headshot.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "/assets/images/gina-chen-headshot.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is Gina Chen, and I’m a passionate environmental engineering student at Cornell University. I am particularly interested in sustainable design, energy systems, and applications through thermodynamics. I've learned lots of knowledge and developed strong skills in system analysis and problem-solving through my engineering studies, and I am excited to apply these skills in the professional world.
