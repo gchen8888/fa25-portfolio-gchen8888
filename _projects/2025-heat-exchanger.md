@@ -35,7 +35,7 @@ Real-world examples of heat exchanger include:
 
 # Experimental Data
 
-## Counterflow Test 1
+### Counterflow Test 1
 **Inflow**
 - Hot: 34.9°C  
 - Cold: 3.9°C  
@@ -45,7 +45,7 @@ Real-world examples of heat exchanger include:
 - Cold bin: 21.5°C  
 
 
-## Counterflow Test 2
+### Counterflow Test 2
 **Inflow**
 - Hot: 34.6°C  
 - Cold: 7.6°C  
