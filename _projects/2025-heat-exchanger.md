@@ -63,6 +63,8 @@ With assumptions
 - Steady state 
 - Adiabatic: Q = 0
 - No mixing
+- Must be >= 0
+
 
 ##### add image here for the system 
 
