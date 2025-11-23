@@ -56,7 +56,7 @@ Real-world examples of heat exchanger include:
 
 ---
 
-## Parallel Flow Test 1
+### Parallel Flow Test 1
 **Inflow**
 - Cold: 5.4°C  
 - Hot: 35.0°C  
@@ -65,7 +65,7 @@ Real-world examples of heat exchanger include:
 - Cold bin: 17.8°C  
 - Hot bin: 21.3°C  
 
-## Parallel Flow Test 2
+### Parallel Flow Test 2
 **Inflow**
 - Cold: 7.3°C  
 - Hot: 34.8°C  
@@ -77,8 +77,7 @@ Real-world examples of heat exchanger include:
 
 # Analysis
 
-# Reason for a larger temperature differences in counterflow setup
-
+## Reason for a larger temperature differences in counterflow setup
 In counterflow, the coldest cold water (at the outlet) meets the hottest hot water (from hot inlet).  
 This maintains a **high temperature difference** along the entire heat exchanger, which leads to a high heat transfer rate. 
 Meanwhile, parallel flow quickly loses temperature difference, as both flows go in the same direction, with smaller temperature differences along the way, so heat transfer becomes inefficient halfway through the exchanger.
@@ -93,6 +92,5 @@ Meanwhile, parallel flow quickly loses temperature difference, as both flows go 
 In real devices, insulation is needed to eliminate these effects.
 
 # Conclusion
-
 Counterflow operation produced **larger temperature changes** and **more effective heat transfer** than parallel flow. This matches thermodynamic expectations and is helpful to keep in mind for real-world engineering design principles.
 
