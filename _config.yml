@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : Gina Chen
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Gina Chen
+description              : Gina Chen - Projects and CV 
 baseurl                  : "/fa25-portfolio-gchen8888" # Set this to your repo name 
 
 # Theme and Style
