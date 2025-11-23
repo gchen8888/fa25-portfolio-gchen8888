@@ -11,8 +11,8 @@ image: /assets/images/IMG_1828.jpeg
 This project analyzes the performance of a small water-to-water heat exchanger operated in **counterflow** vs **parallel flow** setup. Experimental data was collected using two pumps, four water reservoirs, an immersion heater, ice, thermocouples, and dye for flow tracing.
 
 # Photos 
-![Heat Exchanger Setup](assets/images/IMG_1826.jpeg)
-![Flow Schematic](assets/images/IMG_1830.jpeg)
+![Heat Exchanger Setup](/assets/images/IMG_1826.jpeg)
+![Flow Schematic](/assets/images/IMG_1830.jpeg)
 
 
 # Description of the Heat Exchanger
@@ -53,10 +53,10 @@ With assumption of steady state:
 - Negligible KE and PE changes
 
 Cosnider both flows: 
-![Energy balance equation (both flows)](assets/images/IMG_1096.jpeg) 
+![Energy balance equation (both flows)](/assets/images/IMG_1096.jpeg) 
 
 Cosnider one flow as a system: 
-![Energy balance equation (one flow)](assets/images/IMG_1097.jpeg) 
+![Energy balance equation (one flow)](/assets/images/IMG_1097.jpeg) 
 
 ## entropy balance 
 With assumptions
@@ -64,7 +64,7 @@ With assumptions
 - Adiabatic: Q = 0
 - No mixing
 - Must be >= 0
-![Entropy balance equation](assets/images/IMG_1098.jpeg) 
+![Entropy balance equation](/assets/images/IMG_1098.jpeg) 
 
 
 
