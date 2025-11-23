@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: <Gina Chen>
 ---
 
 ## About Me
