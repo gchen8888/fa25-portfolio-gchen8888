@@ -51,10 +51,18 @@ With assumption of steady state:
 - Adiabatic: Q = 0
 - Only flow work: W = 0
 - Negligible KE and PE changes
+
+Cosnider both streams: 
+##### add image here for the system 
+
+Cosnider one stream as a system: 
 ##### add image here for the system 
 
 ## entropy balance 
-With assumption of steady state, consider one stream: 
+With assumptions
+- Steady state 
+- Adiabatic: Q = 0
+- No mixing
 
 ##### add image here for the system 
 
