@@ -33,9 +33,55 @@ Real-world examples of heat exchanger include:
 - Coils at the back of a refrigerator
 
 
+# Experimental Data
 
-# Analysis 
-Counterflow is expected to perform better because the **largest temperature difference** occurs along the full length of the exchanger.
+## Counterflow Test 1
+**Inflow**
+- Hot: 34.9°C  
+- Cold: 3.9°C  
+
+**Outflow**
+- Hot bin: 17.7°C  
+- Cold bin: 21.5°C  
+
+
+## Counterflow Test 2
+**Inflow**
+- Hot: 34.6°C  
+- Cold: 7.6°C  
+
+**Outflow**
+- Hot bin: 19.6°C  
+- Cold bin: 22.8°C  
+
+---
+
+## Parallel Flow Test 1
+**Inflow**
+- Cold: 5.4°C  
+- Hot: 35.0°C  
+
+**Outflow**
+- Cold bin: 17.8°C  
+- Hot bin: 21.3°C  
+
+## Parallel Flow Test 2
+**Inflow**
+- Cold: 7.3°C  
+- Hot: 34.8°C  
+
+**Outflow**
+- Cold bin: 18.5°C  
+- Hot bin: 21.9°C  
+
+
+# Analysis
+
+# Reason for a larger temperature differences in counterflow setup
+
+In counterflow, the coldest cold water (at the outlet) meets the hottest hot water (from hot inlet).  
+This maintains a **high temperature difference** along the entire heat exchanger, which leads to a high heat transfer rate. 
+Meanwhile, parallel flow quickly loses temperature difference, as both flows go in the same direction, with smaller temperature differences along the way, so heat transfer becomes inefficient halfway through the exchanger.
 
 
 
