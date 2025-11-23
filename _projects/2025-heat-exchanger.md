@@ -14,6 +14,7 @@ This project analyzes the performance of a small water-to-water heat exchanger o
 ![Heat Exchanger Setup](assets/images/IMG_1826.jpeg)
 ![Flow Schematic](assets/images/IMG_1830.jpeg)
 
+
 # Description of the Heat Exchanger
 
 A heat exchanger transfers thermal energy between two fluid streams passing through one another without mixing.  
@@ -36,15 +37,14 @@ Real-world examples of heat exchanger include:
 I treat this heat exchanger as a **control volume** system. Assume it's at steady state, adiabatic (no heat loss to surroundings), and no work other than flow work of the two streams (hot, cold). Assume changes in kinetic and potential energy are negligible.
 
 As shwon here: 
-##### add image here for the system 
+![Control volume system for the two flows](assets/images/IMG_1094.jpeg) 
 
 - Energy is transferred only between the two streams, not to the environment.
 - No work interactions occur.
 
 ## Mass balance 
 With assumption of steady state: 
-
-##### add image here for the system 
+![Mass balance equation](assets/images/IMG_1095.jpeg) 
 
 ## Energy balance 
 With assumption of steady state: 
@@ -52,11 +52,11 @@ With assumption of steady state:
 - Only flow work: W = 0
 - Negligible KE and PE changes
 
-Cosnider both streams: 
-##### add image here for the system 
+Cosnider both flows: 
+![Energy balance equation (both flows)](assets/images/IMG_1096.jpeg) 
 
-Cosnider one stream as a system: 
-##### add image here for the system 
+Cosnider one flow as a system: 
+![Energy balance equation (one flow)](assets/images/IMG_1097.jpeg) 
 
 ## entropy balance 
 With assumptions
@@ -64,9 +64,10 @@ With assumptions
 - Adiabatic: Q = 0
 - No mixing
 - Must be >= 0
+![Entropy balance equation](assets/images/IMG_1098.jpeg) 
 
 
-##### add image here for the system 
+
 
 # Experimental Data
 
