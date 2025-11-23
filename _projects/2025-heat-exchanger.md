@@ -44,7 +44,7 @@ As shwon here:
 
 ## Mass balance 
 With assumption of steady state: 
-![Mass balance equation](assets/images/IMG_1095.jpeg) 
+![Mass balance equation](/assets/images/IMG_1095.jpeg)
 
 ## Energy balance 
 With assumption of steady state: 
