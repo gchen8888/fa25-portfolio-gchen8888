@@ -37,7 +37,7 @@ Real-world examples of heat exchanger include:
 I treat this heat exchanger as a **control volume** system. Assume it's at steady state, adiabatic (no heat loss to surroundings), and no work other than flow work of the two streams (hot, cold). Assume changes in kinetic and potential energy are negligible.
 
 As shwon here: 
-![Control volume system for the two flows](assets/images/IMG_1094.jpeg) 
+![Control volume system for the two flows](/assets/images/IMG_1094.jpeg) 
 
 - Energy is transferred only between the two streams, not to the environment.
 - No work interactions occur.
