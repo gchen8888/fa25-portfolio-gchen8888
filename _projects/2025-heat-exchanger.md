@@ -12,8 +12,8 @@ This project analyzes the performance of a small water-to-water heat exchanger o
 
 # Photos 
 
-![Heat exchanger setup](./assets/images/IMG_1826.jpeg)
-![Flow Schematic](./assets/images/IMG_1830.jpeg)
+![Heat exchanger setup](/assets/images/IMG_1826.jpeg)
+![Flow Schematic](/assets/images/IMG_1830.jpeg)
 
 
 # Description of the Heat Exchanger
