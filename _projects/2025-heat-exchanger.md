@@ -10,10 +10,9 @@ image: /assets/images/IMG_1828.jpeg
 
 This project analyzes the performance of a small water-to-water heat exchanger operated in **counterflow** vs **parallel flow** setup. Experimental data was collected using two pumps, four water reservoirs, an immersion heater, ice, thermocouples, and dye for flow tracing.
 
-## Photos 
+## Setup 
 
 ![Heat exchanger setup]({{ "/assets/images/IMG_1826.jpeg" | relative_url }})
-![Flow Schematic]({{ "/assets/images/IMG_1830.jpeg" | relative_url }})
 
 
 ## Description of the Heat Exchanger
@@ -38,6 +37,7 @@ Real-world examples of heat exchanger include:
 I treat this heat exchanger as a **control volume** system. Assume it's at steady state, adiabatic (no heat loss to surroundings), and no work other than flow work of the two streams (hot, cold). Assume changes in kinetic and potential energy are negligible.
 
 As shwon here: 
+
 ![Control volume system for the two flows]({{ "/assets/images/IMG_1094.jpeg" | relative_url }})
 
 - Energy is transferred only between the two streams, not to the environment.
@@ -45,6 +45,7 @@ As shwon here:
 
 ### Mass balance 
 With assumption of steady state: 
+
 ![Mass balance equation]({{ "/assets/images/IMG_1095.jpeg" | relative_url }})
 
 ### Energy balance 
@@ -65,6 +66,7 @@ With assumptions
 - Adiabatic: Q = 0
 - No mixing
 - Must be >= 0
+
 ![Entropy balance equation]({{ "/assets/images/IMG_1098.jpeg" | relative_url }})
 
 
