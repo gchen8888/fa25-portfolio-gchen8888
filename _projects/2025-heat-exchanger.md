@@ -13,7 +13,7 @@ This project analyzes the performance of a small water-to-water heat exchanger o
 ## Photos 
 
 ![Heat exchanger setup]({{ "/assets/images/IMG_1826.jpeg" | relative_url }})
-![Flow Schematic](/assets/images/IMG_1830.jpeg)
+![Flow Schematic]({{ "/assets/images/IMG_1830.jpeg" | relative_url }})
 
 
 ## Description of the Heat Exchanger
@@ -38,14 +38,14 @@ Real-world examples of heat exchanger include:
 I treat this heat exchanger as a **control volume** system. Assume it's at steady state, adiabatic (no heat loss to surroundings), and no work other than flow work of the two streams (hot, cold). Assume changes in kinetic and potential energy are negligible.
 
 As shwon here: 
-![Control volume system for the two flows](/assets/images/IMG_1094.jpeg) 
+![Control volume system for the two flows]({{ "/assets/images/IMG_1094.jpeg" | relative_url }})
 
 - Energy is transferred only between the two streams, not to the environment.
 - No work interactions occur.
 
 ### Mass balance 
 With assumption of steady state: 
-![Mass balance equation](/assets/images/IMG_1095.jpeg)
+![Mass balance equation]({{ "/assets/images/IMG_1095.jpeg" | relative_url }})
 
 ### Energy balance 
 With assumption of steady state: 
@@ -54,10 +54,10 @@ With assumption of steady state:
 - Negligible KE and PE changes
 
 Cosnider both flows: 
-![Energy balance equation (both flows)](/assets/images/IMG_1096.jpeg) 
+![Energy balance equation (both flows)]({{ "/assets/images/IMG_1096.jpeg" | relative_url }})
 
 Cosnider one flow as a system: 
-![Energy balance equation (one flow)](/assets/images/IMG_1097.jpeg) 
+![Energy balance equation (one flow)]({{ "/assets/images/IMG_1097.jpeg" | relative_url }})
 
 ### Entropy Balance 
 With assumptions
@@ -65,7 +65,7 @@ With assumptions
 - Adiabatic: Q = 0
 - No mixing
 - Must be >= 0
-![Entropy balance equation](/assets/images/IMG_1098.jpeg) 
+![Entropy balance equation]({{ "/assets/images/IMG_1098.jpeg" | relative_url }})
 
 
 
