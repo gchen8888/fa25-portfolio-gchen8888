@@ -17,7 +17,7 @@ baseurl                  : "/fa25-portfolio-gchen8888" # Set this to your repo n
 
 # Theme and Style
 #theme: jekyll-theme-minimal
-color_scheme: aqua # light/default, dark, or aqua
+color_scheme: light # light/default, dark, or aqua
 
 sass:
   style: compressed
