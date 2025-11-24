@@ -6,7 +6,7 @@ technologies: [MATLAB, python]
 image: /assets/images/IMG_1828.jpeg
 ---
 
-## Heat Exchanger Analysis
+## Overview 
 
 This project analyzes the performance of a small water-to-water heat exchanger operated in **counterflow** vs **parallel flow** setup. Experimental data was collected using two pumps, four water reservoirs, an immersion heater, ice, thermocouples, and dye for flow tracing.
 
