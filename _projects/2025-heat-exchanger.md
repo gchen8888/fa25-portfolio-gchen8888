@@ -12,7 +12,7 @@ This project analyzes the performance of a small water-to-water heat exchanger o
 
 ## Photos 
 
-![Heat exchanger setup]({{/assets/images/IMG_1826.jpeg|relative_url}})
+![Heat exchanger setup]({{ "/assets/images/IMG_1826.jpeg" | relative_url }})
 ![Flow Schematic](/assets/images/IMG_1830.jpeg)
 
 
